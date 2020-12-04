@@ -1,0 +1,15 @@
+{
+  "title": "Myanmar 2D3D",
+  "message": "New Update Application is Available\n - Download from Playstore\n - Download from Direct link\n - Thank you very much",
+  "download": "https://www.mediafire.com/download/35e4npcuenhggwa",
+  "playstore": "com.aungbarlayhtee.itp",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "2.0",
+  "versionCode": 2,
+  "force": true
+}
